@@ -1,0 +1,74 @@
+[
+    {
+    "nome" : "Aveiro",
+    "distancia" : 366
+    },
+	{
+    "nome" : "Braga",
+    "distancia" : 454
+    },
+	{
+    "nome" : "Bragança",
+    "distancia" : 487
+    },
+	{
+    "nome" : "Beja",
+    "distancia" : 99
+    },
+	{
+    "nome" : "Castelo Branco",
+    "distancia" : 280
+    },
+	{
+    "nome" : "Coimbra",
+    "distancia" : 319
+    },
+	{
+    "nome" : "Évora",
+    "distancia" : 157
+    },
+	{
+    "nome" : "Faro",
+    "distancia" : 0
+    },
+	{
+    "nome" : "Guarda",
+    "distancia" : 352
+    },
+	{
+    "nome" : "Leiria",
+    "distancia" : 278
+    },
+	{
+    "nome" : "Lisboa",
+    "distancia" : 195
+    },
+	{
+    "nome" : "Portalegre",
+    "distancia" : 228
+    },
+	{
+    "nome" : "Porto",
+    "distancia" : 418
+    },
+	{
+    "nome" : "Santarém",
+    "distancia" : 231
+    },
+	{
+    "nome" : "Setúbal",
+    "distancia" : 168
+    },
+	{
+    "nome" : "Viana do Castelo",
+    "distancia" : 473
+    },
+	{
+    "nome" : "Vila Real",
+    "distancia" : 429
+    },
+	{
+    "nome" : "Viseu",
+    "distancia" : 363
+    }
+]

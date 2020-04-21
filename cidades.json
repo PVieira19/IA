@@ -1,0 +1,114 @@
+[
+    {
+    "nome" : "Aveiro",
+    "vizinhos" : 
+        [
+            {"nome" : "Porto", "distancia" : 68},
+            {"nome" : "Viseu", "distancia" : 95},
+            {"nome" : "Coimbra", "distancia" : 68},
+            {"nome" : "Leiria", "distancia" : 115}
+        ]
+    },
+    {
+        "nome" : "Braga",
+        "vizinhos" : 
+            [
+                {"nome" : "Viana do Castelo", "distancia" : 48},
+                {"nome" : "Vila Real", "distancia" : 106},
+                {"nome" : "Porto", "distancia" : 53}
+            ]
+    },
+    {
+        "nome" : "Bragança",
+        "vizinhos" : 
+            [ 
+                {"nome" : "Vila Real", "distancia" : 137},
+                {"nome" : "Guarda", "distancia" : 202}
+            ]
+    },
+    {
+        "nome" : "Beja",
+        "vizinhos" : 
+            [
+                {"nome" : "Évora", "distancia" : 78},
+                {"nome" : "Faro", "distancia" : 152},
+                {"nome" : "Setúbal", "distancia" : 142}
+            ]
+    },
+    {
+        "nome" : "Castelo Branco",
+        "vizinhos" : 
+            [
+                {"nome" : "Coimbra", "distancia" : 159},
+                {"nome" : "Guarda", "distancia" : 106},
+                {"nome" : "Portalegre", "distancia" : 80},
+                {"nome" : "Évora", "distancia" : 203}
+            ]
+    },
+    {
+        "nome" : "Coimbra",
+        "vizinhos" : 
+            [
+                {"nome" : "Viseu", "distancia" : 96},
+                {"nome" : "Leiria", "distancia" : 67}
+            ]
+    },
+    {
+        "nome" : "Évora",
+        "vizinhos" : 
+            [
+                {"nome" : "Lisboa", "distancia" : 150},
+                {"nome" : "Santarém", "distancia" : 117},
+                {"nome" : "Portalegre", "distancia" : 131},
+                {"nome" : "Setúbal", "distancia" : 103}
+            ]
+    },
+    {
+        "nome" : "Faro",
+        "vizinhos" : 
+            [
+                {"nome" : "Setúbal", "distancia" : 249},
+                {"nome" : "Lisboa", "distancia" : 299}
+            ]
+    },
+    {
+        "nome" : "Guarda",
+        "vizinhos" : 
+            [ 
+                {"nome" : "Vila Real", "distancia" : 157},
+                {"nome" : "Viseu", "distancia" : 85}
+            ]
+    },
+    {
+        "nome" : "Leiria",
+        "vizinhos" : 
+            [
+                {"nome" : "Lisboa", "distancia" : 129},
+                {"nome" : "Santarém", "distancia" : 70}
+            ]
+    },
+    {
+        "nome" : "Lisboa",
+        "vizinhos" : 
+            [
+                {"nome" : "Santarém", "distancia" : 78},
+                {"nome" : "Setúbal", "distancia" : 50}
+            ]
+    },
+    {
+        "nome" : "Porto",
+        "vizinhos" : 
+            [
+                {"nome" : "Viana do Castelo", "distancia" : 71},
+                {"nome" : "Vila Real", "distancia" : 116},
+                {"nome" : "Viseu", "distancia" : 133}
+            ]
+    },
+    {
+        "nome" : "Vila Real",
+        "vizinhos" : 
+            [
+                {"nome" : "Viseu", "distancia" : 110}
+            ]
+    }
+]
